@@ -1,4 +1,4 @@
-#Thumbnail List Component
+# Thumbnail List Component
 
 Facebook old version used to have this.
 
